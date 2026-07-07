@@ -1,0 +1,397 @@
+LegalEntity,Period,MainAccount,BudgetAmount,AccountName,AccountCategory
+DE01,2025-01,4000,509235.01,Revenue - Product Sales,Revenue
+DE01,2025-02,4000,519450.01,Revenue - Product Sales,Revenue
+DE01,2025-03,4000,502903.7,Revenue - Product Sales,Revenue
+DE01,2025-04,4000,508049.25,Revenue - Product Sales,Revenue
+DE01,2025-05,4000,510956.65,Revenue - Product Sales,Revenue
+DE01,2025-06,4000,499955.7,Revenue - Product Sales,Revenue
+DE01,2025-07,4000,506258.85,Revenue - Product Sales,Revenue
+DE01,2025-08,4000,504126.93,Revenue - Product Sales,Revenue
+DE01,2025-09,4000,504984.58,Revenue - Product Sales,Revenue
+DE01,2025-10,4000,496208.06,Revenue - Product Sales,Revenue
+DE01,2025-11,4000,504247.06,Revenue - Product Sales,Revenue
+DE01,2025-12,4000,509019.82,Revenue - Product Sales,Revenue
+DE01,2025-01,4010,259313.76,Revenue - Services,Revenue
+DE01,2025-02,4010,256834.72,Revenue - Services,Revenue
+DE01,2025-03,4010,262852.04,Revenue - Services,Revenue
+DE01,2025-04,4010,248132.57,Revenue - Services,Revenue
+DE01,2025-05,4010,256396.5,Revenue - Services,Revenue
+DE01,2025-06,4010,252924.04,Revenue - Services,Revenue
+DE01,2025-07,4010,263036.61,Revenue - Services,Revenue
+DE01,2025-08,4010,247926.18,Revenue - Services,Revenue
+DE01,2025-09,4010,247767.8,Revenue - Services,Revenue
+DE01,2025-10,4010,248979.06,Revenue - Services,Revenue
+DE01,2025-11,4010,241295.57,Revenue - Services,Revenue
+DE01,2025-12,4010,249350.19,Revenue - Services,Revenue
+DE01,2025-01,5000,165449.31,COGS - Materials,COGS
+DE01,2025-02,5000,168505.32,COGS - Materials,COGS
+DE01,2025-03,5000,169148.3,COGS - Materials,COGS
+DE01,2025-04,5000,174303.93,COGS - Materials,COGS
+DE01,2025-05,5000,171193.42,COGS - Materials,COGS
+DE01,2025-06,5000,166061.6,COGS - Materials,COGS
+DE01,2025-07,5000,164981.33,COGS - Materials,COGS
+DE01,2025-08,5000,169652.85,COGS - Materials,COGS
+DE01,2025-09,5000,163564.02,COGS - Materials,COGS
+DE01,2025-10,5000,174153.7,COGS - Materials,COGS
+DE01,2025-11,5000,171962.92,COGS - Materials,COGS
+DE01,2025-12,5000,166423.57,COGS - Materials,COGS
+DE01,2025-01,5010,162243.87,COGS - Freight,COGS
+DE01,2025-02,5010,172549.01,COGS - Freight,COGS
+DE01,2025-03,5010,167615.15,COGS - Freight,COGS
+DE01,2025-04,5010,172159.06,COGS - Freight,COGS
+DE01,2025-05,5010,162642.72,COGS - Freight,COGS
+DE01,2025-06,5010,165986.1,COGS - Freight,COGS
+DE01,2025-07,5010,168017.62,COGS - Freight,COGS
+DE01,2025-08,5010,168157.85,COGS - Freight,COGS
+DE01,2025-09,5010,166487.78,COGS - Freight,COGS
+DE01,2025-10,5010,170092.78,COGS - Freight,COGS
+DE01,2025-11,5010,164412.8,COGS - Freight,COGS
+DE01,2025-12,5010,167521.6,COGS - Freight,COGS
+DE01,2025-01,6000,35284.69,Salaries & Wages,OpEx
+DE01,2025-02,6000,35562.16,Salaries & Wages,OpEx
+DE01,2025-03,6000,35700.98,Salaries & Wages,OpEx
+DE01,2025-04,6000,34408.25,Salaries & Wages,OpEx
+DE01,2025-05,6000,34119.98,Salaries & Wages,OpEx
+DE01,2025-06,6000,36099.48,Salaries & Wages,OpEx
+DE01,2025-07,6000,35433.95,Salaries & Wages,OpEx
+DE01,2025-08,6000,34673.07,Salaries & Wages,OpEx
+DE01,2025-09,6000,36292.01,Salaries & Wages,OpEx
+DE01,2025-10,6000,35281.43,Salaries & Wages,OpEx
+DE01,2025-11,6000,36030.23,Salaries & Wages,OpEx
+DE01,2025-12,6000,35247.53,Salaries & Wages,OpEx
+DE01,2025-01,6010,36650.77,Marketing Expense,OpEx
+DE01,2025-02,6010,36435.76,Marketing Expense,OpEx
+DE01,2025-03,6010,35024.73,Marketing Expense,OpEx
+DE01,2025-04,6010,35883.99,Marketing Expense,OpEx
+DE01,2025-05,6010,35654.34,Marketing Expense,OpEx
+DE01,2025-06,6010,36163.52,Marketing Expense,OpEx
+DE01,2025-07,6010,34520.69,Marketing Expense,OpEx
+DE01,2025-08,6010,35682.98,Marketing Expense,OpEx
+DE01,2025-09,6010,35945.13,Marketing Expense,OpEx
+DE01,2025-10,6010,33961.85,Marketing Expense,OpEx
+DE01,2025-11,6010,34366.99,Marketing Expense,OpEx
+DE01,2025-12,6010,33764.38,Marketing Expense,OpEx
+DE01,2025-01,6020,35010.34,IT & Software,OpEx
+DE01,2025-02,6020,35705.15,IT & Software,OpEx
+DE01,2025-03,6020,36257.66,IT & Software,OpEx
+DE01,2025-04,6020,35252.16,IT & Software,OpEx
+DE01,2025-05,6020,36346.55,IT & Software,OpEx
+DE01,2025-06,6020,34228.41,IT & Software,OpEx
+DE01,2025-07,6020,34000.82,IT & Software,OpEx
+DE01,2025-08,6020,35160.89,IT & Software,OpEx
+DE01,2025-09,6020,35470.38,IT & Software,OpEx
+DE01,2025-10,6020,35176.98,IT & Software,OpEx
+DE01,2025-11,6020,33744.52,IT & Software,OpEx
+DE01,2025-12,6020,35137.26,IT & Software,OpEx
+DE01,2025-01,6030,34281.65,Facilities & Rent,OpEx
+DE01,2025-02,6030,35671.45,Facilities & Rent,OpEx
+DE01,2025-03,6030,35458.09,Facilities & Rent,OpEx
+DE01,2025-04,6030,34538.32,Facilities & Rent,OpEx
+DE01,2025-05,6030,34838.24,Facilities & Rent,OpEx
+DE01,2025-06,6030,34454.31,Facilities & Rent,OpEx
+DE01,2025-07,6030,35155.87,Facilities & Rent,OpEx
+DE01,2025-08,6030,35872.42,Facilities & Rent,OpEx
+DE01,2025-09,6030,34506.05,Facilities & Rent,OpEx
+DE01,2025-10,6030,35554.85,Facilities & Rent,OpEx
+DE01,2025-11,6030,34826.7,Facilities & Rent,OpEx
+DE01,2025-12,6030,34641.82,Facilities & Rent,OpEx
+DE01,2025-01,6040,35124.65,Professional Fees,OpEx
+DE01,2025-02,6040,34471.19,Professional Fees,OpEx
+DE01,2025-03,6040,34810.23,Professional Fees,OpEx
+DE01,2025-04,6040,34356.69,Professional Fees,OpEx
+DE01,2025-05,6040,36583.17,Professional Fees,OpEx
+DE01,2025-06,6040,35224.83,Professional Fees,OpEx
+DE01,2025-07,6040,34707.39,Professional Fees,OpEx
+DE01,2025-08,6040,35350.64,Professional Fees,OpEx
+DE01,2025-09,6040,35120.92,Professional Fees,OpEx
+DE01,2025-10,6040,35044.44,Professional Fees,OpEx
+DE01,2025-11,6040,35632.37,Professional Fees,OpEx
+DE01,2025-12,6040,35733.29,Professional Fees,OpEx
+DE01,2025-01,7000,34826.53,Depreciation & Amortization,OpEx
+DE01,2025-02,7000,34794.62,Depreciation & Amortization,OpEx
+DE01,2025-03,7000,35006.36,Depreciation & Amortization,OpEx
+DE01,2025-04,7000,33579.45,Depreciation & Amortization,OpEx
+DE01,2025-05,7000,34133.31,Depreciation & Amortization,OpEx
+DE01,2025-06,7000,36162.28,Depreciation & Amortization,OpEx
+DE01,2025-07,7000,36358.06,Depreciation & Amortization,OpEx
+DE01,2025-08,7000,35024.68,Depreciation & Amortization,OpEx
+DE01,2025-09,7000,35605.9,Depreciation & Amortization,OpEx
+DE01,2025-10,7000,35419.12,Depreciation & Amortization,OpEx
+DE01,2025-11,7000,37367.53,Depreciation & Amortization,OpEx
+DE01,2025-12,7000,35988.18,Depreciation & Amortization,OpEx
+DE01,2025-01,8000,4787.72,Interest Expense,NonOp
+DE01,2025-02,8000,4708.27,Interest Expense,NonOp
+DE01,2025-03,8000,4645.78,Interest Expense,NonOp
+DE01,2025-04,8000,4819.53,Interest Expense,NonOp
+DE01,2025-05,8000,4727.39,Interest Expense,NonOp
+DE01,2025-06,8000,4663.46,Interest Expense,NonOp
+DE01,2025-07,8000,4737.93,Interest Expense,NonOp
+DE01,2025-08,8000,4696.17,Interest Expense,NonOp
+DE01,2025-09,8000,4961.97,Interest Expense,NonOp
+DE01,2025-10,8000,4884.64,Interest Expense,NonOp
+DE01,2025-11,8000,4799.23,Interest Expense,NonOp
+DE01,2025-12,8000,4942.07,Interest Expense,NonOp
+DE02,2025-01,4000,273422.43,Revenue - Product Sales,Revenue
+DE02,2025-02,4000,268297.39,Revenue - Product Sales,Revenue
+DE02,2025-03,4000,281316.26,Revenue - Product Sales,Revenue
+DE02,2025-04,4000,275942.45,Revenue - Product Sales,Revenue
+DE02,2025-05,4000,267336.64,Revenue - Product Sales,Revenue
+DE02,2025-06,4000,271960.75,Revenue - Product Sales,Revenue
+DE02,2025-07,4000,268219.12,Revenue - Product Sales,Revenue
+DE02,2025-08,4000,265449.91,Revenue - Product Sales,Revenue
+DE02,2025-09,4000,278056.93,Revenue - Product Sales,Revenue
+DE02,2025-10,4000,283425.41,Revenue - Product Sales,Revenue
+DE02,2025-11,4000,265363.82,Revenue - Product Sales,Revenue
+DE02,2025-12,4000,276073.81,Revenue - Product Sales,Revenue
+DE02,2025-01,4010,134723.75,Revenue - Services,Revenue
+DE02,2025-02,4010,135170.15,Revenue - Services,Revenue
+DE02,2025-03,4010,134882.76,Revenue - Services,Revenue
+DE02,2025-04,4010,134141.31,Revenue - Services,Revenue
+DE02,2025-05,4010,136632.46,Revenue - Services,Revenue
+DE02,2025-06,4010,134231.51,Revenue - Services,Revenue
+DE02,2025-07,4010,137238.35,Revenue - Services,Revenue
+DE02,2025-08,4010,136362.85,Revenue - Services,Revenue
+DE02,2025-09,4010,135847.67,Revenue - Services,Revenue
+DE02,2025-10,4010,134022.35,Revenue - Services,Revenue
+DE02,2025-11,4010,134925.41,Revenue - Services,Revenue
+DE02,2025-12,4010,138562.22,Revenue - Services,Revenue
+DE02,2025-01,5000,91911.67,COGS - Materials,COGS
+DE02,2025-02,5000,89220.85,COGS - Materials,COGS
+DE02,2025-03,5000,91180.78,COGS - Materials,COGS
+DE02,2025-04,5000,92367.52,COGS - Materials,COGS
+DE02,2025-05,5000,87961.68,COGS - Materials,COGS
+DE02,2025-06,5000,91988.92,COGS - Materials,COGS
+DE02,2025-07,5000,89794.02,COGS - Materials,COGS
+DE02,2025-08,5000,92038.49,COGS - Materials,COGS
+DE02,2025-09,5000,89610.87,COGS - Materials,COGS
+DE02,2025-10,5000,87715.11,COGS - Materials,COGS
+DE02,2025-11,5000,88037.87,COGS - Materials,COGS
+DE02,2025-12,5000,91087.51,COGS - Materials,COGS
+DE02,2025-01,5010,91472.69,COGS - Freight,COGS
+DE02,2025-02,5010,89354.14,COGS - Freight,COGS
+DE02,2025-03,5010,92162.24,COGS - Freight,COGS
+DE02,2025-04,5010,87976.03,COGS - Freight,COGS
+DE02,2025-05,5010,90879.73,COGS - Freight,COGS
+DE02,2025-06,5010,88795.95,COGS - Freight,COGS
+DE02,2025-07,5010,89813.66,COGS - Freight,COGS
+DE02,2025-08,5010,91086.27,COGS - Freight,COGS
+DE02,2025-09,5010,89434.05,COGS - Freight,COGS
+DE02,2025-10,5010,90300.11,COGS - Freight,COGS
+DE02,2025-11,5010,92831.45,COGS - Freight,COGS
+DE02,2025-12,5010,89950.06,COGS - Freight,COGS
+DE02,2025-01,6000,19385.34,Salaries & Wages,OpEx
+DE02,2025-02,6000,18635.87,Salaries & Wages,OpEx
+DE02,2025-03,6000,19268.7,Salaries & Wages,OpEx
+DE02,2025-04,6000,19616.38,Salaries & Wages,OpEx
+DE02,2025-05,6000,18124.15,Salaries & Wages,OpEx
+DE02,2025-06,6000,18762.78,Salaries & Wages,OpEx
+DE02,2025-07,6000,19286.72,Salaries & Wages,OpEx
+DE02,2025-08,6000,18989.24,Salaries & Wages,OpEx
+DE02,2025-09,6000,19208.2,Salaries & Wages,OpEx
+DE02,2025-10,6000,18836.35,Salaries & Wages,OpEx
+DE02,2025-11,6000,19099.69,Salaries & Wages,OpEx
+DE02,2025-12,6000,19007.3,Salaries & Wages,OpEx
+DE02,2025-01,6010,19511.98,Marketing Expense,OpEx
+DE02,2025-02,6010,19163.69,Marketing Expense,OpEx
+DE02,2025-03,6010,19195.41,Marketing Expense,OpEx
+DE02,2025-04,6010,18909.6,Marketing Expense,OpEx
+DE02,2025-05,6010,18880.73,Marketing Expense,OpEx
+DE02,2025-06,6010,18901.72,Marketing Expense,OpEx
+DE02,2025-07,6010,19217.08,Marketing Expense,OpEx
+DE02,2025-08,6010,18906.13,Marketing Expense,OpEx
+DE02,2025-09,6010,19177.17,Marketing Expense,OpEx
+DE02,2025-10,6010,19858.09,Marketing Expense,OpEx
+DE02,2025-11,6010,19398.86,Marketing Expense,OpEx
+DE02,2025-12,6010,18942.34,Marketing Expense,OpEx
+DE02,2025-01,6020,19524.73,IT & Software,OpEx
+DE02,2025-02,6020,18911.05,IT & Software,OpEx
+DE02,2025-03,6020,18289.46,IT & Software,OpEx
+DE02,2025-04,6020,18682.25,IT & Software,OpEx
+DE02,2025-05,6020,18353.27,IT & Software,OpEx
+DE02,2025-06,6020,18932.62,IT & Software,OpEx
+DE02,2025-07,6020,19073.69,IT & Software,OpEx
+DE02,2025-08,6020,19705.95,IT & Software,OpEx
+DE02,2025-09,6020,19191.33,IT & Software,OpEx
+DE02,2025-10,6020,18983.12,IT & Software,OpEx
+DE02,2025-11,6020,19382.95,IT & Software,OpEx
+DE02,2025-12,6020,18223.49,IT & Software,OpEx
+DE02,2025-01,6030,19156.51,Facilities & Rent,OpEx
+DE02,2025-02,6030,19360.62,Facilities & Rent,OpEx
+DE02,2025-03,6030,18502.83,Facilities & Rent,OpEx
+DE02,2025-04,6030,19502.82,Facilities & Rent,OpEx
+DE02,2025-05,6030,19195.75,Facilities & Rent,OpEx
+DE02,2025-06,6030,18908.3,Facilities & Rent,OpEx
+DE02,2025-07,6030,19307.97,Facilities & Rent,OpEx
+DE02,2025-08,6030,19932.56,Facilities & Rent,OpEx
+DE02,2025-09,6030,19136.02,Facilities & Rent,OpEx
+DE02,2025-10,6030,19161.32,Facilities & Rent,OpEx
+DE02,2025-11,6030,18891.5,Facilities & Rent,OpEx
+DE02,2025-12,6030,18742.59,Facilities & Rent,OpEx
+DE02,2025-01,6040,19383.3,Professional Fees,OpEx
+DE02,2025-02,6040,18740.21,Professional Fees,OpEx
+DE02,2025-03,6040,19093.96,Professional Fees,OpEx
+DE02,2025-04,6040,18884.52,Professional Fees,OpEx
+DE02,2025-05,6040,19249.32,Professional Fees,OpEx
+DE02,2025-06,6040,19193.9,Professional Fees,OpEx
+DE02,2025-07,6040,19462.32,Professional Fees,OpEx
+DE02,2025-08,6040,18872.18,Professional Fees,OpEx
+DE02,2025-09,6040,18963.75,Professional Fees,OpEx
+DE02,2025-10,6040,18693.43,Professional Fees,OpEx
+DE02,2025-11,6040,18897.24,Professional Fees,OpEx
+DE02,2025-12,6040,19210.54,Professional Fees,OpEx
+DE02,2025-01,7000,19355.33,Depreciation & Amortization,OpEx
+DE02,2025-02,7000,18715.01,Depreciation & Amortization,OpEx
+DE02,2025-03,7000,19398.28,Depreciation & Amortization,OpEx
+DE02,2025-04,7000,19583.62,Depreciation & Amortization,OpEx
+DE02,2025-05,7000,19224.32,Depreciation & Amortization,OpEx
+DE02,2025-06,7000,19782.35,Depreciation & Amortization,OpEx
+DE02,2025-07,7000,18771.6,Depreciation & Amortization,OpEx
+DE02,2025-08,7000,18592.04,Depreciation & Amortization,OpEx
+DE02,2025-09,7000,18388.38,Depreciation & Amortization,OpEx
+DE02,2025-10,7000,19637.16,Depreciation & Amortization,OpEx
+DE02,2025-11,7000,19316.2,Depreciation & Amortization,OpEx
+DE02,2025-12,7000,19045.47,Depreciation & Amortization,OpEx
+DE02,2025-01,8000,2614.56,Interest Expense,NonOp
+DE02,2025-02,8000,2541.47,Interest Expense,NonOp
+DE02,2025-03,8000,2727.18,Interest Expense,NonOp
+DE02,2025-04,8000,2606.72,Interest Expense,NonOp
+DE02,2025-05,8000,2605.69,Interest Expense,NonOp
+DE02,2025-06,8000,2637.74,Interest Expense,NonOp
+DE02,2025-07,8000,2625.01,Interest Expense,NonOp
+DE02,2025-08,8000,2611.64,Interest Expense,NonOp
+DE02,2025-09,8000,2558.9,Interest Expense,NonOp
+DE02,2025-10,8000,2624.52,Interest Expense,NonOp
+DE02,2025-11,8000,2697.87,Interest Expense,NonOp
+DE02,2025-12,8000,2669.96,Interest Expense,NonOp
+US01,2025-01,4000,660908.72,Revenue - Product Sales,Revenue
+US01,2025-02,4000,633951.33,Revenue - Product Sales,Revenue
+US01,2025-03,4000,627823.16,Revenue - Product Sales,Revenue
+US01,2025-04,4000,638888.67,Revenue - Product Sales,Revenue
+US01,2025-05,4000,641213.84,Revenue - Product Sales,Revenue
+US01,2025-06,4000,654516.59,Revenue - Product Sales,Revenue
+US01,2025-07,4000,618819.53,Revenue - Product Sales,Revenue
+US01,2025-08,4000,660093.54,Revenue - Product Sales,Revenue
+US01,2025-09,4000,638475.92,Revenue - Product Sales,Revenue
+US01,2025-10,4000,635031.65,Revenue - Product Sales,Revenue
+US01,2025-11,4000,627534.94,Revenue - Product Sales,Revenue
+US01,2025-12,4000,619301.29,Revenue - Product Sales,Revenue
+US01,2025-01,4010,325522.41,Revenue - Services,Revenue
+US01,2025-02,4010,320719.6,Revenue - Services,Revenue
+US01,2025-03,4010,311987.8,Revenue - Services,Revenue
+US01,2025-04,4010,311955.02,Revenue - Services,Revenue
+US01,2025-05,4010,318099.3,Revenue - Services,Revenue
+US01,2025-06,4010,330940.08,Revenue - Services,Revenue
+US01,2025-07,4010,318587.32,Revenue - Services,Revenue
+US01,2025-08,4010,310622.37,Revenue - Services,Revenue
+US01,2025-09,4010,318676.02,Revenue - Services,Revenue
+US01,2025-10,4010,318503.21,Revenue - Services,Revenue
+US01,2025-11,4010,302976.44,Revenue - Services,Revenue
+US01,2025-12,4010,319902.24,Revenue - Services,Revenue
+US01,2025-01,5000,212513.91,COGS - Materials,COGS
+US01,2025-02,5000,216472.8,COGS - Materials,COGS
+US01,2025-03,5000,221395.04,COGS - Materials,COGS
+US01,2025-04,5000,218310.43,COGS - Materials,COGS
+US01,2025-05,5000,212351.85,COGS - Materials,COGS
+US01,2025-06,5000,208775.13,COGS - Materials,COGS
+US01,2025-07,5000,224488.25,COGS - Materials,COGS
+US01,2025-08,5000,213752.86,COGS - Materials,COGS
+US01,2025-09,5000,213559.48,COGS - Materials,COGS
+US01,2025-10,5000,213396.99,COGS - Materials,COGS
+US01,2025-11,5000,214345.82,COGS - Materials,COGS
+US01,2025-12,5000,212883.58,COGS - Materials,COGS
+US01,2025-01,5010,211050.46,COGS - Freight,COGS
+US01,2025-02,5010,211164.91,COGS - Freight,COGS
+US01,2025-03,5010,213360.14,COGS - Freight,COGS
+US01,2025-04,5010,211179.58,COGS - Freight,COGS
+US01,2025-05,5010,210456.15,COGS - Freight,COGS
+US01,2025-06,5010,213954.46,COGS - Freight,COGS
+US01,2025-07,5010,212411.25,COGS - Freight,COGS
+US01,2025-08,5010,219922.05,COGS - Freight,COGS
+US01,2025-09,5010,202180.36,COGS - Freight,COGS
+US01,2025-10,5010,218160.73,COGS - Freight,COGS
+US01,2025-11,5010,218820.78,COGS - Freight,COGS
+US01,2025-12,5010,204646.62,COGS - Freight,COGS
+US01,2025-01,6000,44426.74,Salaries & Wages,OpEx
+US01,2025-02,6000,44401.02,Salaries & Wages,OpEx
+US01,2025-03,6000,43474.08,Salaries & Wages,OpEx
+US01,2025-04,6000,44037.45,Salaries & Wages,OpEx
+US01,2025-05,6000,43739.74,Salaries & Wages,OpEx
+US01,2025-06,6000,46301.03,Salaries & Wages,OpEx
+US01,2025-07,6000,45570.45,Salaries & Wages,OpEx
+US01,2025-08,6000,45870.95,Salaries & Wages,OpEx
+US01,2025-09,6000,45378.99,Salaries & Wages,OpEx
+US01,2025-10,6000,43723.21,Salaries & Wages,OpEx
+US01,2025-11,6000,44264.06,Salaries & Wages,OpEx
+US01,2025-12,6000,45171.16,Salaries & Wages,OpEx
+US01,2025-01,6010,43639.94,Marketing Expense,OpEx
+US01,2025-02,6010,45371.23,Marketing Expense,OpEx
+US01,2025-03,6010,44518.32,Marketing Expense,OpEx
+US01,2025-04,6010,44397.99,Marketing Expense,OpEx
+US01,2025-05,6010,45369.41,Marketing Expense,OpEx
+US01,2025-06,6010,45130.8,Marketing Expense,OpEx
+US01,2025-07,6010,44410.39,Marketing Expense,OpEx
+US01,2025-08,6010,45770.55,Marketing Expense,OpEx
+US01,2025-09,6010,43766.14,Marketing Expense,OpEx
+US01,2025-10,6010,45284.39,Marketing Expense,OpEx
+US01,2025-11,6010,45263.96,Marketing Expense,OpEx
+US01,2025-12,6010,44456.39,Marketing Expense,OpEx
+US01,2025-01,6020,45025.11,IT & Software,OpEx
+US01,2025-02,6020,43614.0,IT & Software,OpEx
+US01,2025-03,6020,45560.03,IT & Software,OpEx
+US01,2025-04,6020,44567.91,IT & Software,OpEx
+US01,2025-05,6020,44265.67,IT & Software,OpEx
+US01,2025-06,6020,45671.85,IT & Software,OpEx
+US01,2025-07,6020,44103.18,IT & Software,OpEx
+US01,2025-08,6020,43473.23,IT & Software,OpEx
+US01,2025-09,6020,43340.67,IT & Software,OpEx
+US01,2025-10,6020,45275.51,IT & Software,OpEx
+US01,2025-11,6020,43587.78,IT & Software,OpEx
+US01,2025-12,6020,46303.29,IT & Software,OpEx
+US01,2025-01,6030,42870.7,Facilities & Rent,OpEx
+US01,2025-02,6030,46251.1,Facilities & Rent,OpEx
+US01,2025-03,6030,44922.12,Facilities & Rent,OpEx
+US01,2025-04,6030,44646.81,Facilities & Rent,OpEx
+US01,2025-05,6030,44245.81,Facilities & Rent,OpEx
+US01,2025-06,6030,45090.43,Facilities & Rent,OpEx
+US01,2025-07,6030,44699.66,Facilities & Rent,OpEx
+US01,2025-08,6030,45720.42,Facilities & Rent,OpEx
+US01,2025-09,6030,44835.53,Facilities & Rent,OpEx
+US01,2025-10,6030,44867.8,Facilities & Rent,OpEx
+US01,2025-11,6030,44408.02,Facilities & Rent,OpEx
+US01,2025-12,6030,44682.39,Facilities & Rent,OpEx
+US01,2025-01,6040,45008.71,Professional Fees,OpEx
+US01,2025-02,6040,43203.3,Professional Fees,OpEx
+US01,2025-03,6040,43527.16,Professional Fees,OpEx
+US01,2025-04,6040,45398.31,Professional Fees,OpEx
+US01,2025-05,6040,44886.2,Professional Fees,OpEx
+US01,2025-06,6040,44568.73,Professional Fees,OpEx
+US01,2025-07,6040,44749.83,Professional Fees,OpEx
+US01,2025-08,6040,45044.3,Professional Fees,OpEx
+US01,2025-09,6040,44250.43,Professional Fees,OpEx
+US01,2025-10,6040,44037.01,Professional Fees,OpEx
+US01,2025-11,6040,44908.55,Professional Fees,OpEx
+US01,2025-12,6040,43858.02,Professional Fees,OpEx
+US01,2025-01,7000,45098.58,Depreciation & Amortization,OpEx
+US01,2025-02,7000,43210.09,Depreciation & Amortization,OpEx
+US01,2025-03,7000,45654.08,Depreciation & Amortization,OpEx
+US01,2025-04,7000,45156.15,Depreciation & Amortization,OpEx
+US01,2025-05,7000,44962.39,Depreciation & Amortization,OpEx
+US01,2025-06,7000,45612.51,Depreciation & Amortization,OpEx
+US01,2025-07,7000,46223.38,Depreciation & Amortization,OpEx
+US01,2025-08,7000,45640.86,Depreciation & Amortization,OpEx
+US01,2025-09,7000,43086.36,Depreciation & Amortization,OpEx
+US01,2025-10,7000,43588.54,Depreciation & Amortization,OpEx
+US01,2025-11,7000,44174.33,Depreciation & Amortization,OpEx
+US01,2025-12,7000,44756.68,Depreciation & Amortization,OpEx
+US01,2025-01,8000,6163.15,Interest Expense,NonOp
+US01,2025-02,8000,6011.46,Interest Expense,NonOp
+US01,2025-03,8000,6122.79,Interest Expense,NonOp
+US01,2025-04,8000,6007.84,Interest Expense,NonOp
+US01,2025-05,8000,6025.39,Interest Expense,NonOp
+US01,2025-06,8000,5928.39,Interest Expense,NonOp
+US01,2025-07,8000,5987.37,Interest Expense,NonOp
+US01,2025-08,8000,5935.09,Interest Expense,NonOp
+US01,2025-09,8000,5980.94,Interest Expense,NonOp
+US01,2025-10,8000,6228.54,Interest Expense,NonOp
+US01,2025-11,8000,5984.17,Interest Expense,NonOp
+US01,2025-12,8000,6421.15,Interest Expense,NonOp

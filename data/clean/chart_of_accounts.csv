@@ -1,0 +1,20 @@
+MainAccount,AccountName,AccountCategory,Statement
+4000,Revenue - Product Sales,Revenue,P&L
+4010,Revenue - Services,Revenue,P&L
+5000,COGS - Materials,COGS,P&L
+5010,COGS - Freight,COGS,P&L
+6000,Salaries & Wages,OpEx,P&L
+6010,Marketing Expense,OpEx,P&L
+6020,IT & Software,OpEx,P&L
+6030,Facilities & Rent,OpEx,P&L
+6040,Professional Fees,OpEx,P&L
+7000,Depreciation & Amortization,OpEx,P&L
+8000,Interest Expense,NonOp,P&L
+1000,Cash & Cash Equivalents,Asset,BS
+1200,Accounts Receivable,Asset,BS
+1500,"Fixed Assets, net",Asset,BS
+2000,Accounts Payable,Liability,BS
+2100,Accrued Liabilities,Liability,BS
+2500,Long-term Debt,Liability,BS
+3000,Share Capital,Equity,BS
+3900,Retained Earnings,Equity,BS

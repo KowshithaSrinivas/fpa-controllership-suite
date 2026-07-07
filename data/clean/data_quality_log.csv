@@ -1,0 +1,5 @@
+Step,Detail,RowsAffected
+Cost center cleanup,Trimmed whitespace / standardized casing,1
+Duplicate GL lines,Removed exact-duplicate journal rows from D365 export,15
+Blank cost centers,Mapped blank/non-dimensioned lines to UNALLOCATED for review,108
+FX translation,Converted EUR entity amounts to USD at month-end rate,264
