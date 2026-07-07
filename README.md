@@ -1,5 +1,22 @@
 # Multi-Entity FP&A & Controllership Reporting Suite
 
+## Skills Demonstrated
+
+**Finance / FP&A**
+- Month-end close coordination & data validation
+- 3-statement modeling (P&L, Balance Sheet, Cash Flow — fully articulating)
+- Budget vs. Actual variance analysis
+- Rolling forecast methodology
+- Cost/profit-center business partnering
+- Internal controls & segregation-of-duties design
+- Multi-entity / multi-currency consolidation (EUR → USD translation)
+
+**Technical**
+- Python (pandas, numpy) — ETL pipeline, data cleaning, FX conversion
+- openpyxl — formula-driven Excel generation, conditional formatting, charts
+- Excel — SUMIFS-based dynamic reporting, dropdown selectors, data validation
+- Source system knowledge — Microsoft Dynamics 365 Finance & Operations (GL, chart of accounts, financial dimensions, budget register)
+
 A simulated month-end close, budgeting, forecasting, and management reporting package for a 3-entity group (2 German legal entities + 1 US entity), built the way a Controller / FP&A Analyst would actually run it: pull raw data from the ERP, validate it, then drive a fully formula-linked 3-statement model and reporting pack in Excel.
 
 This project is a companion to my [D2C Sales Pricing Dashboard](https://github.com/KowshithaSrinivas/d2c-sales-pricing-dashboard) — that one is commercial/pricing analytics; this one is built specifically around Controller / FP&A Analyst job requirements (month-end close, budget vs. actual, forecasting, business partnering, internal controls).
