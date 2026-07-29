@@ -1,5 +1,7 @@
 # Multi-Entity FP&A & Controllership Reporting Suite
 
+![Pipeline Architecture](images/pipeline_diagram.png)
+
 ## Skills Demonstrated
 
 **Finance / FP&A**
@@ -16,6 +18,8 @@
 - openpyxl — formula-driven Excel generation, conditional formatting, charts
 - Excel — SUMIFS-based dynamic reporting, dropdown selectors, data validation
 - Source system knowledge — Microsoft Dynamics 365 Finance & Operations (GL, chart of accounts, financial dimensions, budget register)
+
+![Workbook Structure](images/workbook_structure_diagram.png)
 
 A simulated month-end close, budgeting, forecasting, and management reporting package for a 3-entity group (2 German legal entities + 1 US entity), built the way a Controller / FP&A Analyst would actually run it: pull raw data from the ERP, validate it, then drive a fully formula-linked 3-statement model and reporting pack in Excel.
 
